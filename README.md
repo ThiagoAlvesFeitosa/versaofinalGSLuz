@@ -1,4 +1,4 @@
-
+Global Solution 2 (2024)
 Este projeto foi desenvolvido para simular o consumo de energia de um dispositivo, armazenando dados em um banco de dados e fornecendo alertas sobre o consumo.
 
 ### Tecnologias Utilizadas
